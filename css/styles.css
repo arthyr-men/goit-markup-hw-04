@@ -10,7 +10,10 @@
     }
     .top-line-body-container{
        display: flex;
-      align-items: center;}
+      align-items: center;
+      box-shadow: 0px 2px 1px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16),
+       0px 1px 6px rgba(46, 47, 66, 0.08)
+    }
   .menu-nav-header {
     padding-left: 76px;
     display: flex;
@@ -110,7 +113,9 @@
       .hero-image {
         background-color: var(--background-dark-color); 
         padding-top: 188px;
-        padding-bottom: 188px;}
+        padding-bottom: 188px;
+       
+        }
       .hero-text {
 
           font-weight: 700;
@@ -152,6 +157,10 @@
       .cection-two-cection { 
         padding-top: 120px;
         padding-bottom: 120px;
+
+
+
+        
       }
       .content-our-list{  
         display: flex;
