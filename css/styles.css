@@ -402,17 +402,10 @@
 }
 
 
-.our-customers-list-item-link:hover{
-  border-color: #404bbf;
-  color: #404bbf;
-
-}
+.our-customers-list-item-link:hover,
 .our-customers-list-item-link:focus {
-  border-color: #404bbf;
-  color: #404bbf;
-
-
-}
+    border-color: #404bbf;
+    color: #404bbf;}
 
 
 .our-customers-list {
