@@ -283,7 +283,7 @@
           background-color:  var(--background-section-color);
         background-image:  url("../images/Light-bg.jpg");
         background-size: cover;
-        max-width: 1440px;
+        
         background-repeat: no-repeat;
         background-position: center;
         margin-left: auto;
